@@ -1,0 +1,15 @@
+2021-01-21 21:03:01,170 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting StoreManagementApplication using Java 11.0.8 on DESKTOP-45IUQPT with PID 7332 (C:\Users\aniis\Documents\workspace\store-management-master\target\classes started by aniis in C:\Users\aniis\Documents\workspace\store-management-master)
+2021-01-21 21:03:01,175 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-21 21:03:01,176 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-21 21:03:05,534 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started StoreManagementApplication in 4.803 seconds (JVM running for 6.121)
+2021-01-21 21:28:26,752 INFO org.springframework.boot.StartupInfoLogger [main] Starting StoreManagementApplicationTests using Java 11.0.8 on DESKTOP-45IUQPT with PID 15544 (started by aniis in C:\Users\aniis\Documents\workspace\store-management-master)
+2021-01-21 21:28:26,773 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-21 21:28:26,785 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-21 21:28:36,179 INFO org.springframework.boot.StartupInfoLogger [main] Started StoreManagementApplicationTests in 10.149 seconds (JVM running for 12.726)
+2021-01-21 21:29:28,510 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting StoreManagementApplication using Java 11.0.8 on DESKTOP-45IUQPT with PID 7448 (C:\Users\aniis\Documents\workspace\store-management-master\target\classes started by aniis in C:\Users\aniis\Documents\workspace\store-management-master)
+2021-01-21 21:29:28,513 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-21 21:29:28,514 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-21 21:29:32,215 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started StoreManagementApplication in 4.087 seconds (JVM running for 5.32)
+2021-01-21 21:43:27,889 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting StoreManagementApplication using Java 11.0.8 on DESKTOP-45IUQPT with PID 7448 (C:\Users\aniis\Documents\workspace\store-management-master\target\classes started by aniis in C:\Users\aniis\Documents\workspace\store-management-master)
+2021-01-21 21:43:27,890 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-21 21:43:27,890 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default

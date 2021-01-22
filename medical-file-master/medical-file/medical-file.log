@@ -1,0 +1,11 @@
+2021-01-21 20:58:39,963 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MedicalFileApplication using Java 11.0.8 on DESKTOP-45IUQPT with PID 15788 (C:\Users\aniis\Documents\workspace\medical-file-master\target\classes started by aniis in C:\Users\aniis\Documents\workspace\medical-file-master)
+2021-01-21 20:58:39,971 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-21 20:58:39,973 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-21 21:02:06,917 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MedicalFileApplication using Java 11.0.8 on DESKTOP-45IUQPT with PID 18168 (C:\Users\aniis\Documents\workspace\medical-file-master\target\classes started by aniis in C:\Users\aniis\Documents\workspace\medical-file-master)
+2021-01-21 21:02:06,921 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-21 21:02:06,922 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-21 21:02:11,079 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MedicalFileApplication in 4.55 seconds (JVM running for 5.93)
+2021-01-21 21:26:22,284 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplicationTests using Java 11.0.8 on DESKTOP-45IUQPT with PID 4392 (started by aniis in C:\Users\aniis\Documents\workspace\medical-file-master)
+2021-01-21 21:26:22,290 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-21 21:26:22,292 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-21 21:26:31,515 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplicationTests in 9.785 seconds (JVM running for 11.618)
